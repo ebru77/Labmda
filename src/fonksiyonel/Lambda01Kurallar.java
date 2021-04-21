@@ -29,9 +29,7 @@ public class Lambda01Kurallar {
    liste.forEach(t->{
        int miktar = 2;
        System.out.println(t+miktar+" ");
-   });
-
-   }
+   }); }
 
 }
 
